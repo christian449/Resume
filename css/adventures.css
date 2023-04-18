@@ -1,0 +1,60 @@
+.common{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.header{
+    height: 100px;
+    background-color: black;
+    color: white;
+    line-height: 100px;
+}
+.mainBody{
+    background-color: burlywood;
+}
+
+.bg {
+    background-color: burlywood;
+
+}
+
+.Lists{
+    background-color: burlywood;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+nav a{
+    float:left ;
+    color: black;
+    padding: 10px 13px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+nav{
+    background-color: cornsilk;
+    padding: 10px;
+    overflow: hidden;
+}
+
+nav a:hover{
+    background-color: burlywood;
+}
+
+::backdrop{
+    background-color: burlywood;
+}
+
+
+a:visited {
+    text-align: center;
+    color: black;
+}
+
